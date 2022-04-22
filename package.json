@@ -1,0 +1,24 @@
+{
+  "name": "udemy-blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "udemy-blog",
+  "author": "Milena Tomova",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.12.1",
+    "gatsby-plugin-sass": "^5.12.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "sass": "^1.50.1"
+  }
+}
