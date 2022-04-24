@@ -1,0 +1,45 @@
+{
+    "blogs":[
+        {
+            "slug":"js-design-patterns",
+            "title": "JS Design Patterns",
+            "subtitle": "Learn something new"
+        },
+        {
+            "slug":"js-design-patterns-1",
+            "title": "JS Design Patterns 1",
+            "subtitle": "Learn something new"
+        },
+        {
+            "slug":"learn-gatsby-quick-1",
+            "title": "Learn Gatsby Fast 1",
+            "subtitle": "Learn gatsby is super cool"
+        },
+        {
+            "slug":"learn-gatsby-quick",
+            "title": "Learn Gatsby Fast",
+            "subtitle": "Learn gatsby is super cool"
+        },
+        {
+            "slug":"learn-programming-in-js-1",
+            "title": "Learn Programming in JS 1",
+            "subtitle": "Learn programming is super cool"
+        },
+        {
+            "slug":"learn-programming-in-js",
+            "title": "Learn Programming in JS",
+            "subtitle": "Learn programming is super cool"
+        },
+        {
+            "slug":"react-introduction-1",
+            "title": "React Introduction 1",
+            "subtitle": "Quick Intro into React 1"
+        },
+        {
+            "slug":"react-introduction",
+            "title": "React Introduction",
+            "subtitle": "Quick Intro into React"
+        }
+        
+    ]
+}
